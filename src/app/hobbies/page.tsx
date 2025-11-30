@@ -15,7 +15,7 @@ export default function Tester() {
       name: "Watching Anime",
       icon: <FaTv className="text-3xl text-red-500" />,
       description: "Enjoy exploring different genres from action-packed shonen to thought-provoking slice-of-life series. Always looking for new recommendations!",
-      examples: ["Bungoo Stray Dogs", "Made in Abyss", "Sanda", "Studio Ghibli films"],
+      examples: ["Bungou Stray Dogs", "Made in Abyss", "Sanda", "Studio Ghibli films"],
       color: "bg-red-50 border-red-200"
     },
     {
@@ -35,7 +35,7 @@ export default function Tester() {
     {
       name: "Playing Games",
       icon: <FaGamepad className="text-3xl text-green-500" />,
-      description: "Love playing both video games and outdoor sports. Enjoy the challenge, strategy, and social aspects of gaming.",
+      description: "Love playing both video and board games. Enjoy the challenge, strategy, and social aspects of gaming.",
       examples: ["Mobile Games", "PC Games"],
       color: "bg-green-50 border-green-200"
     },
