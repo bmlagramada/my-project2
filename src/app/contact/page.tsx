@@ -94,7 +94,7 @@ export default function Contact() {
         <div className="mt-8 p-6 bg-gray-50 rounded-lg">
           <h3 className="text-lg font-semibold mb-3">Availability</h3>
           <p className="text-gray-600">
-            I'm currently available for freelance projects and full-time opportunities. 
+            I'm currently available for collaboration projects. 
             Feel free to reach out via email or social media for collaborations!
           </p>
         </div>
