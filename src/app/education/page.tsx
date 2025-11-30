@@ -111,7 +111,7 @@ export default function Education() {
           Certifications
         </h2>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="grid grid-cols-1 gap-6">
           {certifications.map((cert, index) => (
             <div key={index} className="bg-white rounded-lg shadow-md p-6 border-l-4 border-green-500">
               <div className="flex justify-between items-start mb-3">
