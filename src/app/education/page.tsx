@@ -38,7 +38,7 @@ export default function Education() {
       name: "Microsoft office Specialist - Word Associate (Microsoft 365 Apps)",
       issuer: "Microsoft - Certiport",
       date: "2023",
-      description: "Validated skills in creating, formatting, and managing professional documents using Microsoft Word."
+      description: "Validated skills in creating, formatting, and managing documents using Microsoft Word."
     },
    
   ];
